@@ -161,7 +161,7 @@ const HeroSection = () => {
             Master wealth creation & business ideation with our financial education course.
           </h1>
           <p className="text-base sm:text-xl my-4 sm:my-6 w-[90%] lg:w-[70%] mx-auto text-center">
-            Unlock financial intelligence, Entrepreneurial skills & business development with this money back guarantee course. Your journey to wealth creation & financial freedom begins here.
+            Unlock financial intelligence, entrepreneurial skills & business development with this money back guarantee course. Your journey to wealth creation & financial freedom begins here.
           </p>
 
           {/* Registration Button */}

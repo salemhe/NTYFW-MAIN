@@ -3,6 +3,7 @@ import AboutSection from './components/AboutSection'
 import CourseBreakdown from './components/CourseBreakdown'
 import Credential from './components/Credentials'
 import FAQ from './components/FAQ'
+import Footer from './components/Footer'
 import HeroSection from './components/HeroSection'
 import PricingCTA from './components/PricingCTA'
 import Testimonials from './components/Testimonials'
@@ -22,6 +23,7 @@ function App() {
       <Testimonials />
       <FAQ />
       <PricingCTA />
+      <Footer />
     </>
   )
 }
