@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AiOutlinePlus, AiOutlineMinus } from "react-icons/ai"; // New icons for expand/collapse
+import { AiOutlinePlus, AiOutlineMinus } from "react-icons/ai";
 
 const FAQSection = () => {
   const [activeIndex, setActiveIndex] = useState(null);
@@ -11,11 +11,11 @@ const FAQSection = () => {
   const faqQuestions = [
     {
       question: "What is the 'Not Too Young for Wealth' course?",
-      answer: "The course is a digital program designed to teach young individuals essential financial skills, wealth creation strategies, and entrepreneurship principles to help them achieve financial freedom."
+      answer: "It is a self-paced financial literacy, entrepreneurship, business and career development online course designed with simple, practical and relatable videos and PDF materials to guide you into the life you have always dreamt of financially."
     },
     {
       question: "How long will it take to complete the course?",
-      answer: "You can complete the course at your own pace, but we recommend dedicating 4-6 weeks to finish it, ensuring you fully absorb the material and apply it."
+      answer: "You can complete the course at your own pace, but we recommend dedicating 2-4 weeks to finish it, ensuring you fully absorb the material and apply it."
     },
     {
       question: "Is there any support during the course?",
@@ -27,7 +27,20 @@ const FAQSection = () => {
     },
     {
       question: "How do I get started with the course?",
-      answer: "Simply click on the 'Start Your Wealth Journey Now' button above, make the payment, and you'll gain immediate access to the course content."
+      answer: (
+        <>
+          Simply click on the{" "}
+          <a
+            href="https://selar.co/m/teensvoiceacademy"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 underline"
+          >
+            Start Your Wealth Journey Now
+          </a>{" "}
+          button above, make the payment, and you'll gain immediate access to the course content.
+        </>
+      )
     }
   ];
 
@@ -67,3 +80,4 @@ const FAQSection = () => {
 };
 
 export default FAQSection;
+

@@ -67,7 +67,7 @@ const Testimonials = () => {
             className="flex items-center bg-blue-500 text-white py-3 px-6 rounded-md text-lg font-semibold hover:bg-blue-600 transition w-full sm:w-auto justify-center"
             onClick={() => window.location.href = "https://selar.co/m/teensvoiceacademy"}
           >
-             Join Us and Transform Your Story
+             🚀 Your journey to wealth creation is a click away
            </button>
          </div>
       </div>

@@ -30,7 +30,7 @@ const WhatYouGetSection = () => {
           onClick={() => window.location.href = "https://selar.co/m/teensvoiceacademy"}
           >
             {/* <BsRocket className="mr-2 sm:text-2xl text-xl" /> */}
-            🚀 Everything you need to build wealth - all in one place
+            🚀 This is not too good to be true- it's actually true. Click here!
           </button>
         </div>
       </div>

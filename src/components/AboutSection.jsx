@@ -15,9 +15,7 @@ const AboutSection = () => {
 
         {/* Section Content */}
         <p className="text-lg md:text-xl mb-6 leading-relaxed">
-          The <span className="font-semibold">Not Too Young For Wealth</span> program empowers you with
-          financial knowledge, tools, and strategies to transform your future. Whether you’re a beginner
-          or aspiring investor, this course will guide you to success and unlock your financial potential.
+          In this <span className="font-semibold">Course</span> we dmistified wealth creation, entrepreneurship, business and career development; revealing the tricks and tips. So whether you are a beginner or a pro, this course will guide you on the different Pathways to Wealth Creation and Financial Freedom.
         </p>
 
         {/* Call-To-Action */}

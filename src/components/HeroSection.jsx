@@ -49,10 +49,10 @@ const HeroSection = () => {
 
           <h1 className='text-4xl sm:text-6xl font-bold mb-4 sm:mb-6'>
             {/* Master Financial Intelligence in Just 5 Days — Anytime, Anywhere */}
-            Master Wealth Creation with Our Exclusive Course
+            Master Wealth Creation & Buisness Ideation with our Finacial Education Course.
           </h1>
           <p className="text-base sm:text-xl my-4 sm:my-6 w-[90%] lg:w-[70%] mx-auto text-center">
-            Unlock financial intelligence and entrepreneurial skills with this transformative course. Get the tools to build wealth and secure your future today!
+            Unlock financial intelligence, Entrepreneurial skills & business development with this money back guarantee course. Your journey to wealth creation & financial freedom begins here.
             {/* Learn step-by-step how to build wealth and secure your future */}
           </p>
 

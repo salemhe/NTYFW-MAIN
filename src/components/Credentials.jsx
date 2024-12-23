@@ -1,5 +1,5 @@
 import React from 'react';
-import PersonImage from '../assets/pwealth.jpg';
+import PersonImage from '../assets/teensvoiceaward.jpg';
 
 const Credentials = () => {
   return (
@@ -7,7 +7,7 @@ const Credentials = () => {
       <div className="max-w-6xl mx-auto">
         {/* Section Title */}
         <h2 className="text-4xl font-semibold text-center mb-8 leading-snug">
-         About Pwealth
+         About This Course
         </h2>
 
         {/* Flex Container for Image and Text */}
@@ -24,17 +24,20 @@ const Credentials = () => {
           {/* Text Section */}
           <div className="w-full lg:w-1/2 text-gray-700">
             <p className="text-lg leading-relaxed mb-4">
-              <strong>Wealth Oladele Olaitan</strong>, formally known as Pwealth, the Convenor of Teens Voice Academy, leads this transformative initiative. Teens Voice is a Social Enterprise dedicated to empowering young people globally through financial literacy, business education, and leadership training.
+              <strong>Teens Voice</strong>, is a social enterprise dedicated to raising a new breed of young leaders, adequately prepared for an impactful and successful adult life. We achieve this through our '7 Star Education' program, mentorship, internship, and experiential learning experiences.
+
             </p>
             <p className="text-lg leading-relaxed mb-4">
-              With a focus on young people, our mission is to equip the next generation with the knowledge and tools they need to succeed.
+              <strong>
+                Our 'Not Too Young for Wealth' Course focuses on financial literacy, entrepreneurship, business, and career development. Designed to bridge the much required knowledge gap not typically addressed in traditional school curricula.
+              </strong>
             </p>
             <p className="text-lg leading-relaxed mb-4 italic">
-              Teens Voice has made a significant impact, receiving awards and recognition from the Lagos State ministry of education for it's outreach and positively influencing thousands of students.
+            In 2024, we received two Merit Awards from the Lagos State Ministry of Education, recognizing our contributions to education in the state. We have also received numerous testimonials from students and parents, acknowledging the impact of our  programs and initiatives; a testament to an incredible learning experience that awaits you.
             </p>
-            <p className="text-lg leading-relaxed mb-6">
+            {/* <p className="text-lg leading-relaxed mb-6">
               Trusted by leading organizations across Lagos, Teens Voice continues to gain support from companies committed to shaping the future of our youth.
-            </p>
+            </p> */}
 
             <a 
                 href="https://selar.co/m/teensvoiceacademy"
