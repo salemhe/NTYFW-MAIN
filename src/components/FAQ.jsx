@@ -34,7 +34,7 @@ const FAQSection = () => {
             href="https://selar.co/m/teensvoiceacademy"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-500 underline"
+            className="text-blue-500 underline font-bold"
           >
             HERE
           </a>{" "}
