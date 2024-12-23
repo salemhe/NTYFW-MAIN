@@ -218,22 +218,22 @@ const PricingSection = () => {
         {/* Pricing and CTA */}
         <div className="text-center mt-8">
           <h3 className="text-3xl font-bold text-black mb-4">
-            Your Investment in Financial Freedom <FaRocket className="inline text-blue-500" />
+            Your Roadmap to Finacial Freedom <FaRocket className="inline text-blue-500" />
           </h3>
           <p className="text-lg text-gray-600 mb-6">
-            Originally{" "}
-            <span className="line-through text-gray-500 font-semibold">₦150,000</span>, 
-            now just{" "}
-            <span className="text-red-500 font-semibold text-2xl">₦15,000</span>
+            Actual Investment{" "}
+            <span className="line-through text-gray-500 font-semibold">₦150,000</span> 
+            {" "}if you take action now you pay{" "}
+            <span className="text-red-500 font-semibold text-2xl">₦16,500 ONLY !</span>
           </p>
           <button 
             className="bg-red-500 hover:bg-red-600 text-white py-3 px-8 rounded-md text-lg font-semibold transition transform hover:scale-105 shadow-lg"
             onClick={() => window.location.href = "https://selar.co/m/teensvoiceacademy"}
           >
-            Your Journey to Wealth Creation - Start NOW <FaRegArrowAltCircleRight className="inline text-white" />
+            Start your journey to Wealth Creation <FaRegArrowAltCircleRight className="inline text-white" />
           </button>
           <p className="mt-4 text-red-500 font-medium">
-            🔥 Limited Access – Secure Your Spot Today!
+            🔥 Limited OFFER – Secure Your Spot Today!
           </p>
         </div>
       </div>
