@@ -24,7 +24,7 @@ const Credentials = () => {
           {/* Text Section */}
           <div className="w-full lg:w-1/2 text-gray-700">
             <p className="text-lg leading-relaxed mb-4">
-              <strong>Teens Voice</strong>, is a social enterprise dedicated to raising a new breed of young leaders, adequately prepared for an impactful and successful adult life. We achieve this through our '7 Star Education' program, mentorship, internship, and experiential learning experiences.
+              <strong>Teens Voice</strong>, is a social enterprise dedicated to raising a new breed of young leaders that are adequately prepared for an impactful and successful adult life. We achieve this through our '7 Star Education' program, mentorship, internship, and experiential learning experiences.
 
             </p>
             <p className="text-lg leading-relaxed mb-4">

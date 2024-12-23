@@ -29,16 +29,16 @@ const FAQSection = () => {
       question: "How do I get started with the course?",
       answer: (
         <>
-          Simply click on the{" "}
+          Simply click{" "}
           <a
             href="https://selar.co/m/teensvoiceacademy"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 underline"
           >
-            Start Your Wealth Journey Now
+            HERE
           </a>{" "}
-          button above, make the payment, and you'll gain immediate access to the course content.
+          let the adventure  begin!
         </>
       )
     }

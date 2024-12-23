@@ -143,7 +143,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineTool className="text-blue-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Entrepreneurship skills</h3>
+              <h3 className="text-2xl font-semibold">Entrepreneurship Skills</h3>
               <p className="text-gray-600 mt-2">
                 Acquire the skills and mindset necessary to start and run a successful business.
               </p>
@@ -154,7 +154,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineBarChart className="text-orange-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Business acumen</h3>
+              <h3 className="text-2xl font-semibold">Business Acumen</h3>
               <p className="text-gray-600 mt-2">
                 Understand the fundamentals of business, including Branding and marketing. 
               </p>
@@ -165,7 +165,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineSolution className="text-indigo-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Career development</h3>
+              <h3 className="text-2xl font-semibold">Career Development</h3>
               <p className="text-gray-600 mt-2">
                  Discover how to create a fulfilling career path, set goals, and achieve success.
               </p>
@@ -176,7 +176,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineRise className="text-teal-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Bridge the Knowledge Gap</h3>
+              <h3 className="text-2xl font-semibold">Bridge The Knowledge Gap</h3>
               <p className="text-gray-600 mt-2">
                 Fill the gaps left by traditional school curricula, which often neglect practical life skills.
               </p>
@@ -187,7 +187,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineRocket className="text-purple-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Stay ahead of the curve</h3>
+              <h3 className="text-2xl font-semibold">Stay Ahead Of The Curve</h3>
               <p className="text-gray-600 mt-2">
                 Gain a competitive edge in the job market or as an entrepreneur.
               </p>
@@ -198,7 +198,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineSmile className="text-yellow-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Increased confidence</h3>
+              <h3 className="text-2xl font-semibold">Increased Confidence</h3>
               <p className="text-gray-600 mt-2">
                Develop a stronger sense of self-assurance and capability in managing your finances and career.
               </p>
@@ -221,7 +221,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineBulb className="text-cyan-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Improved decision-making</h3>
+              <h3 className="text-2xl font-semibold">Improved Decision-Making</h3>
               <p className="text-gray-600 mt-2">
                 Make informed decisions about your financial and professional life.
               </p>
@@ -233,7 +233,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineThunderbolt className="text-red-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Enhanced creativity</h3>
+              <h3 className="text-2xl font-semibold">Enhanced Creativity</h3>
               <p className="text-gray-600 mt-2">
                 Cultivate innovative thinking and problem-solving skills.
               </p>
@@ -244,7 +244,7 @@ const CourseBreakdown = () => {
           <div className="bg-white shadow-md rounded-lg p-6 flex items-start gap-6">
             <AiOutlineTeam className="text-pink-500 text-5xl" />
             <div className="text-left">
-              <h3 className="text-2xl font-semibold">Networking opportunities</h3>
+              <h3 className="text-2xl font-semibold">Networking Opportunities</h3>
               <p className="text-gray-600 mt-2">
                 Connect with like-minded individuals and potential mentors.
               </p>

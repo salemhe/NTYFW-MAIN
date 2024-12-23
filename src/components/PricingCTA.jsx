@@ -224,7 +224,7 @@ const PricingSection = () => {
             Originally{" "}
             <span className="line-through text-gray-500 font-semibold">₦150,000</span>, 
             now just{" "}
-            <span className="text-red-500 font-semibold text-2xl">₦15,000</span>!
+            <span className="text-red-500 font-semibold text-2xl">₦15,000</span>
           </p>
           <button 
             className="bg-red-500 hover:bg-red-600 text-white py-3 px-8 rounded-md text-lg font-semibold transition transform hover:scale-105 shadow-lg"
