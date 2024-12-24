@@ -15,7 +15,7 @@ const AboutSection = () => {
 
         {/* Section Content */}
         <p className="text-lg md:text-xl mb-6 leading-relaxed">
-          In this <span className="font-semibold">Course</span> we dmistified wealth creation, entrepreneurship, business and career development; revealing the tricks and tips. So whether you are a beginner or a pro, this course will guide you on the different Pathways to Wealth Creation and Financial Freedom.
+          In this <span className="font-semibold">Course</span> we demistified wealth creation, entrepreneurship, business and career development; revealing the tricks and tips. So whether you are a beginner or a pro, this course will guide you on the different Pathways to Wealth Creation and Financial Freedom.
         </p>
 
         {/* Call-To-Action */}
